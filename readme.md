@@ -13,6 +13,7 @@
 
 - Projects :
 
+- 📝 [AntiyBot](https://t.me/antiybot)
 - 📝 [Fittpipe](https://fittpipe.com)
 - 📝 [Uzpalang](https://uzpalang.com)
 - 📝 [Pipekala](https://pipekala.com)
