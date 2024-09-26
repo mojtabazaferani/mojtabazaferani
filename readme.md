@@ -12,7 +12,7 @@
 </p>
 
 - Projects :
-
+- 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
 - 📝 [AntiyBot](https://t.me/antiybot)
 - 📝 [Fittpipe](https://fittpipe.com)
 - 📝 [Uzpalang](https://uzpalang.com)
