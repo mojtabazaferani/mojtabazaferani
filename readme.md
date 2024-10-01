@@ -13,6 +13,7 @@
 
 - Projects :
 - 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
+- 📝 [ItzGame](https://gamerlly-front.liara.run)
 - 📝 [AntiyBot](https://t.me/antiybot)
 - 📝 [Fittpipe](https://fittpipe.com)
 - 📝 [Uzpalang](https://uzpalang.com)
