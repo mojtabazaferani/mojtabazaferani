@@ -15,7 +15,7 @@
 - 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
 - 📝 [ItzGame](https://gamerlly-front.liara.run)
 - 📝 [AntiyBot](https://t.me/antiybot)
-- 📝 [Dadvarz](https://dadvarz.liara.run)
+- 📝 [Dadvarz](https://vakildadvarz.com)
 - 📝 [Fittpipe](https://fittpipe.com)
 - 📝 [Uzpalang](https://uzpalang.com)
 - 📝 [Pipekala](https://pipekala.com)
