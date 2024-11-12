@@ -12,6 +12,7 @@
 </p>
 
 - Projects :
+- 📝 [LidomaBot](https://t.me/Lidoma_Agency_Bot)
 - 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
 - 📝 [ItzGame](https://gamerlly-front.liara.run)
 - 📝 [AntiyBot](https://t.me/antiybot)
