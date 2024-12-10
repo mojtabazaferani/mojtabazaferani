@@ -12,7 +12,7 @@
 </p>
 
 - Projects :
-- 📝 [Cando-Cube](https://cando-cube.liara.run)
+- 📝 [Cando-Cube](https://candocube.com)
 - 📝 [LidomaBot](https://t.me/Lidoma_Agency_Bot)
 - 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
 - 📝 [ItzGame](https://gamerlly-front.liara.run)
