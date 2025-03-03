@@ -2,7 +2,8 @@
 <h1 align="center" style="border-bottom: none;"><b>I'm Mojtaba 😄</b></h1>
 
 <div align="center">
-  <img alt="GIF" height="160px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />
+<!--   <img alt="GIF" height="160px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" /> -->
+    <img alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxsMmQ1Y3FrMGtlajFidjF6Yjg5eW5rZ2tkZWE4anh4ZTIzY2JndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sbrqfuotRaQefJCQ4p/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" />
 </div>
 <p align="center">
