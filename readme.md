@@ -5,6 +5,10 @@
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" />
 </div>
+<div align="center">
+  <img alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjaHNpbXg5MHNiMDU2dGJ2emU3cG56YW56aTdoYTNuMTFuOGd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" />
+<!--   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" /> -->
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Back-end+Developer;Php;Laravel;Mysql">
