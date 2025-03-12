@@ -6,7 +6,10 @@
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" />
 </div>
 <div align="center">
-  <img alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjaHNpbXg5MHNiMDU2dGJ2emU3cG56YW56aTdoYTNuMTFuOGd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" />
+  <img alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjaHNpbXg5MHNiMDU2dGJ2emU3cG56YW56aTdoYTNuMTFuOGd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif"
+    />
+  <img alt="GIF" height="160px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+    />
 </div>
 <div align="center">
   <img alt="GIF" height="160px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
