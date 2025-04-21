@@ -30,11 +30,7 @@
   <samp>
     <br/>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosepehr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-      alt="Top Langs" />
-    </p>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dosepehr&theme=gruvbox" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojtabazaferani&theme=gruvbox" alt="GitHub Streak" />
     </p>
   </samp>
 </div>
