@@ -26,6 +26,19 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div>
+  <samp>
+    <br/>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosepehr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+      alt="Top Langs" />
+    </p>
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dosepehr&theme=gruvbox" alt="GitHub Streak" />
+    </p>
+  </samp>
+</div>
+
 - Projects :
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://atl-main.vercel.app)
