@@ -26,15 +26,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
-  <samp>
-    <br/>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojtabazaferani&theme=gruvbox" alt="GitHub Streak" />
-    </p>
-  </samp>
-</div>
-
 - Projects :
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://atl-main.vercel.app)
