@@ -32,7 +32,7 @@
 - 📝 [Iran To Germany](https://iran-to-germany.vercel.app)
 - 📝 [LidomaBot](https://t.me/Lidoma_Agency_Bot)
 - 📝 [Clinic Parsiyan](https://clinicparsianfardis.ir)
-- 📝 [ItzGame](https://gamerlly-front.liara.run)
+- 📝 [ItzGame](https://itzgame.com)
 - 📝 [AntiyBot](https://t.me/antiybot)
 - 📝 [Dadvarz](https://vakildadvarz.com)
 - 📝 [Fittpipe](https://fittpipe.com)
