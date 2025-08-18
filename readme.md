@@ -30,6 +30,7 @@
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://artlightco.com/en)
 - 📝 [Iran To Germany](https://irantogermany.com)
+- 📝 [Heditto](https://heditto.com)
 - 📝 [LidomaBot](https://t.me/Lidoma_Agency_Bot)
 - 📝 [ItzGame](https://itzgame.com)
 - 📝 [AntiyBot](https://t.me/antiybot)
