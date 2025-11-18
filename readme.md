@@ -27,6 +27,7 @@
 </picture>
 
 - Projects :
+- 📝 [PTY-LTD](https://proactiveequities.com.au)
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://artlightco.com/en)
 - 📝 [Iran To Germany](https://irantogermany.com)
