@@ -29,7 +29,7 @@
 - Projects :
 - 📝 [Sareban](https://sareban-front.vercel.app)
 - 📝 [PTY-LTD](https://proactiveequities.com.au)
-- 📝 [Schematic](https://schematic-tau.vercel.app)
+- 📝 [Schematic](https://shematic.org)
 - 📝 [Ghorfe](https://qorfe-front.vercel.app)
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://artlightco.com/en)
