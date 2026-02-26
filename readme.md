@@ -27,7 +27,7 @@
 </picture>
 
 - Projects :
-- 📝 [Sareban](https://sareban-front.vercel.app)
+- 📝 [Sareban](https://sarebaan.com)
 - 📝 [PTY-LTD](https://proactiveequities.com.au)
 - 📝 [Schematic](https://shematic.org)
 - 📝 [Ghorfe](https://ghorfeshop.com)
