@@ -4,8 +4,10 @@
 
 
 <div align="center">
+   <img alt="img" width="280px"  height="260px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
+  <br/>
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />
-  <img alt="GIF" height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" />
+  <img alt="GIF"   rotate="30deg"  height="160px" src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" />
 </div>
 <div align="center">
   <img alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjaHNpbXg5MHNiMDU2dGJ2emU3cG56YW56aTdoYTNuMTFuOGd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif"
