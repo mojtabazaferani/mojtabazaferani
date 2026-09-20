@@ -31,7 +31,7 @@
 </picture>
 
 - Projects :
-- 📝 [JeanoLee](https://jeanolee-front.liara.run)
+- 📝 [JeanoLee](https://jeanolee.ir)
 - 📝 [Sareban](https://sareban-front.vercel.app)
 - 📝 [PTY-LTD](https://proactiveequities.com.au)
 - 📝 [Tabansa](https://tabansa.ir)
