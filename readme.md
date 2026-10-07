@@ -35,7 +35,7 @@
 - 📝 [Sareban](https://sareban-front.vercel.app)
 - 📝 [PTY-LTD](https://proactiveequities.com.au)
 - 📝 [Tabansa](https://tabansa.ir)
-- 📝 [Schematic](https://shematic.org)
+- 📝 [Schematic](https://shematic.co)
 - 📝 [Ghorfe](https://ghorfeshop.com)
 - 📝 [Cando-Cube](https://candocube.com)
 - 📝 [ATL](https://artlightco.com/en)
